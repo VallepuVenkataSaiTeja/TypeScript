@@ -1,0 +1,26 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Before TypeScript, be comfortable with:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VallepuVenkataSaiTeja/TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/VallepuVenkataSaiTeja/TypeScript/issues"
+  },
+  "homepage": "https://github.com/VallepuVenkataSaiTeja/TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^6.0.2"
+  }
+}
